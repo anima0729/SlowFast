@@ -13,7 +13,7 @@
 
 ## Model
 
-- Model : slowfast_16x8_r101_50_50 [paper](https://arxiv.org/pdf/1812.03982.pdf)
+- Model : slowfast_16x8_r101_50_50   [[paper]](https://arxiv.org/pdf/1812.03982.pdf)
 
 - Original Code : [PySlowFast](https://github.com/facebookresearch/SlowFast)
 
