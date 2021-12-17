@@ -19,36 +19,40 @@
 
 ## Preprocessing Data (Training)
 
+```
 datasets/
 	- Label_Folder/ (Sorted by Label & Folder Name Must Contain Label)
 		- Label_Folder_mp4_event_number/ (Sorted by Event Number) (If you process Video_Preprocessing.ipynb, You can make this folder)
 			- *.png
 		- *.mp4
 		- *.json
+```
 	
 ## Preprocessing Data (Testing)
 
+```
 datasets/
 	- Label_Folder/
 		- Label_Folder_mp4_event_number/ (If you process Video_Preprocessing.ipynb, You can make this folder)
 			- *.png
 		- *.mp4
 		- *.json
+```
 
 ## Model Link (Trained Model)
 
-- [[Link]](https://drive.google.com/drive/folders/1bzlFKdf9zc0jKvizE63XDPIVhRraeFnp?usp=sharing)
+- [[Model Link]](https://drive.google.com/drive/folders/1bzlFKdf9zc0jKvizE63XDPIVhRraeFnp?usp=sharing)
 
 ## Result
 
-K-Fold Cross Validation
+K-Fold Cross Validation<br>
 CV Accuracy : 약 98%
 
 
 ## Reference
 
-[Private 1위 Slowfast](https://www.dacon.io/competitions/official/235806/codeshare/3635?page=1&dtype=recent)
+[Private 1위 Slowfast](https://www.dacon.io/competitions/official/235806/codeshare/3635?page=1&dtype=recent)<br>
 	- by. younggeun
-	
-[private 2위 slowfast](https://www.dacon.io/competitions/official/235806/codeshare/3640?page=1&dtype=recent)
+	<br>
+[private 2위 slowfast](https://www.dacon.io/competitions/official/235806/codeshare/3640?page=1&dtype=recent)<br>
 	- by. siwooyong
