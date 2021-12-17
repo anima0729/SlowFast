@@ -51,8 +51,8 @@ CV Accuracy : 약 98%
 
 ## Reference
 
-[Private 1위 Slowfast](https://www.dacon.io/competitions/official/235806/codeshare/3635?page=1&dtype=recent)<br>
+- [Private 1위 Slowfast](https://www.dacon.io/competitions/official/235806/codeshare/3635?page=1&dtype=recent)<br>
 	- by. younggeun
 	<br>
-[private 2위 slowfast](https://www.dacon.io/competitions/official/235806/codeshare/3640?page=1&dtype=recent)<br>
+- [private 2위 slowfast](https://www.dacon.io/competitions/official/235806/codeshare/3640?page=1&dtype=recent)<br>
 	- by. siwooyong
