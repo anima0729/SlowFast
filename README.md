@@ -43,12 +43,6 @@ datasets/
 
 - [[Model Link]](https://drive.google.com/drive/folders/1bzlFKdf9zc0jKvizE63XDPIVhRraeFnp?usp=sharing)
 
-## Result
-
-K-Fold Cross Validation<br>
-CV Accuracy : 약 98%
-
-
 ## Reference
 
 - [Private 1위 Slowfast](https://www.dacon.io/competitions/official/235806/codeshare/3635?page=1&dtype=recent)<br>
