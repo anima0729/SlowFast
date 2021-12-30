@@ -39,7 +39,7 @@ datasets/
 		- *.json
 ```
 
-## Model Link (Trained Model)
+## Model Link (Pretrained Model)
 
 - [[Model Link]](https://drive.google.com/drive/folders/1bzlFKdf9zc0jKvizE63XDPIVhRraeFnp?usp=sharing)
 
